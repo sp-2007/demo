@@ -1,0 +1,67 @@
+Compare the propagation delay in ripple carry, carry look-ahead, and carry select adders for an 8-bit operation.
+
+Design a 4-bit carry look-ahead adder in  Verilog and explain each module.
+
+Perform the subtraction on the following pairs of numbers using 5-bit signed 2’s complement format. Indicate if overflow occurs in each case: (a) +10 and -8 (b) +12 and +9 (c) -15 and -9 (d) -14 and +5".
+
+Perform the multiplication of 14 × -8 using Booth's algorithm. Show all steps and result.
+
+Explain the principle of prefix addition and how it is used in advanced fast adders like the Brent-Kung adder
+
+Draw the circuit diagram for a carry look-ahead generator for 4 bits and explain the working of generate and propagate signals
+
+Derive the delay expression for a carry skip adder and explain the concept of skipping propagate signals
+
+
+Evaluate the trade-offs between different bus structures (single bus, multiple bus) in terms of complexity, cost, and speed.
+
+Evaluate the effectiveness of different instruction sequencing methods in pipelined architectures.
+
+Develop a control sequence for a CPU functional unit performing a specific arithmetic operation, visualizing control signals and data paths.
+
+Design a 4-to-1 multiplexer using only NAND gates and explain the selection line logic.
+
+Design a 4-bit binary adder-subtractor circuit using a single adder and show the logic for mode control. Explain the role of XOR gates in this design.
+
+How is a D flip-flop different from an SR latch? Describe a positive edge-triggered D flip-flop circuit and its working principle.
+
+Given a flip-flop-based frequency divider circuit, derive the output frequency if the input clock frequency is 10 MHz.
+
+Write a behavioral Verilog model for a 4-bit binary full adder.
+
+Simplify expressions like 
+A
+=
+X
+Y
++
+X
+(
+Y
++
+Z
+)
++
+Y
+(
+Y
++
+Z
+)
+A=XY+X(Y+Z)+Y(Y+Z) and verify their minimal forms.
+
+Interpretation of K-maps where output is constant and elimination of variables.
+
+Prove identities such as 
+A
+C
++
+A
+B
+C
+=
+A
+C
+AC+ABC=AC.
+
+Simplify Boolean functions of five  variables using 4X4 Karnaugh Maps with cases including challenging grouping and don’t-care conditions.
